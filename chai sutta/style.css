@@ -1,0 +1,55 @@
+header{
+    background-color: rgb(202, 200, 199);
+    font-style: italic;
+    font-size: 25px;
+    
+
+}
+header img{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+h1{
+    text-align: left;
+    text-align: top;
+}
+#navbar{
+	background-color:#333;
+	color:#fff;
+}
+.container{
+	width:80%;
+	margin:auto;
+    overflow:hidden;
+}
+#navbar ul{
+	padding:0;
+    list-style: none;
+}
+
+#navbar li{
+	display:inline;
+}
+
+#navbar a{
+	color:#fff;
+	text-decoration: none;
+	font-size:18px;
+	padding-right:15px;
+}
+#w3-content{
+
+    width: 400px;
+    height: 400px;
+    display: inline; 
+}
+.mySlides{
+    width: 1200px;
+    height: 400px;
+    margin-left: 5%;
+    margin-top: 10px;
+}
+body{
+
+    background-color: rgb(109, 146, 143);
+}
